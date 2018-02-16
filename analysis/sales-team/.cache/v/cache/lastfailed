@@ -1,0 +1,4 @@
+{
+  "basecrm_test.py::test_sort_by_index_2d": true,
+  "basecrm_test.py::test_sort_by_key_2d": true
+}
